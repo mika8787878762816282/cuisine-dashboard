@@ -8,10 +8,16 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": ["cuisine", "dashboard", "n8n", "commandes"],
+  "keywords": [
+    "cuisine",
+    "dashboard",
+    "n8n",
+    "commandes"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "terser": "^5.44.1",
     "vite": "^7.3.0"
   }
 }
