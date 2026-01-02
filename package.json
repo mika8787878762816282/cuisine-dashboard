@@ -1,0 +1,17 @@
+{
+  "name": "cuisine-dashboard",
+  "version": "1.0.0",
+  "main": "index.html",
+  "description": "Dashboard Cuisine Pro - Affichage des commandes en temps réel avec synthèse vocale",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["cuisine", "dashboard", "n8n", "commandes"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
